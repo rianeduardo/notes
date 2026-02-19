@@ -1,0 +1,3 @@
+# 🧠 Second Brain — Arquitetura, Segurança, Sistemas & Pensamentos
+
+> **Diretório sobre sistema de caching.**
