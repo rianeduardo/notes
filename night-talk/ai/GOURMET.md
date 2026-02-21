@@ -14,10 +14,10 @@ Provavelmente vou trazer cada vez mais temas assim.
 
 Hoje eu vou falar um pouco sobre a **constante gourmetização da inteligência artificial** que a gente vem recebendo.
 
-E tudo isso começa com a criação da famosa pilha de bosta chamada **MoltBot** — mas vamos voltar um pouco.
+E tudo isso começa com a criação da famosa cagada chamada **MoltBot**, mas vamos voltar um pouco.
 
 Nos últimos dias (ou meses), têm surgido **muitas IAs novas, muitas mesmo**.  
-Só que uma delas chamou mais atenção, entrou no famoso hype.
+Só que uma delas chamou mais atenção, entrou no famoso hype dos dev vibe-coders.
 
 Pra quem não é da bolha dev:  
 > *“Nossa, que IA legal.”*
@@ -25,11 +25,11 @@ Pra quem não é da bolha dev:
 Pra quem é da bolha dev:  
 > *“Ok, isso já existe faz tempo.”*
 
-Estou falando da **ClawdBot / MoltBot / OpenClaw** — toda semana muda o nome dessa merda.
+Estou falando da **ClawdBot / MoltBot / OpenClaw**, toda semana muda o nome disso.
 
 Ela é, muito provavelmente, **baseada no ChatGPT**, como praticamente todas as IAs novas que surgem.
 
-*Confesso que no lançamento achei legal, mas foi só passar 3 dias que mudou minha opinião*
+*Confesso que no lançamento achei legal, mas foi só passar 3 dias que mudou minha opinião.*
 
 ---
 
@@ -56,9 +56,7 @@ O que realmente acontece é que esse bot é basicamente:
 
 O custo é absurdo, o uso é questionável e a qualidade da IA é, sinceramente, **bem mediana**.
 
-Eu chamaria isso de:
-
-> **IA de preguiçoso. IA de folgado.** kkkkkkkkkkkkk
+Além de que, as funções do bot são feitas por outros usuários, chamadas skills, o que nem preciso falar que gera uma superfície de ataque maior ainda.
 
 ---
 
@@ -82,11 +80,13 @@ O resultado?
 - Bots discutindo **extinção humana**
 - Bots **vazando chaves de API**
 - Um pesadelo completo pra segurança
+- E além de tudo, mais tokens pro seu agente autonômo super confiável com acesso ao seu file-system gastar!!!
 
 Sim, vazamento real de **tokens de API**.
 
-Se essa IA tiver acesso ao seu computador, suas credenciais, suas chaves, sua carteira cripto…  
-Ela **pode simplesmente postar isso numa rede social de bots** só de meme, pra ficar popular e ganhar seguidor no MoltBook KKKKKKKKK.
+Esse agente literal tem acesso ao teu file-system, e é autonômo, imagina se tu tem chave de API, chave privada, etc.
+
+Ela **pode simplesmente postar isso numa rede social de agentes** só de meme, pra ficar popular e ganhar seguidor no MoltBook KKKKKKKKK.
 
 É literalmente um **pesadelo de segurança digital.**
 
@@ -175,7 +175,7 @@ Mas escalar isso é **perigoso e caro.**
 
 Outro ponto triste:
 
-As **IAs de influencer**. (Essa canetada é pro Ruyter e sua Lasy AI, que consegue ser ruim e come mais token que a pilha de bosta do MoltBot)
+As **IAs de influencer**. (Essa canetada é pro Ruyter e sua Lasy AI, que consegue ser ruim e come mais token que coco do MoltBot)
 
 Já vimos:
 
@@ -209,13 +209,13 @@ O resto?
 
 > Copia os avanços mais recentes, muda o nome, cria hype e lança produto meia-boca.
 
-No meu feed do GitHub, **todo dia surge um novo bot baseado nessa mesma base.**
+No meu feed do GitHub, **todo dia surge um novo bot baseado nessa mesma base do moltbot.**
 
 Chega a ser ridículo.
 
 ---
 
-## Encerramento
+## Conclusão
 
 Esse foi o **Night Talk #06**.
 
