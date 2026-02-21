@@ -336,3 +336,10 @@ _It can:_
 - Block unsolicited packets
 
 - Control visibility
+
+---
+**Conclusion**
+
+This is it for the basics of NAT, we're going to uncover much more soon, in terms we never heard, like WebRTC, P2P, VPN, C2, etc.
+
+**END**
