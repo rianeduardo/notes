@@ -248,15 +248,17 @@ Objetivo:
 
 ## 🌙 night-talk/
 
-Pensamentos noturnos.
+Pensamentos noturnos. Programa diário.
 
 Reflexões que surgem quando:
 - tudo está quieto
 - a mente viaja
 - ideias se conectam de formas estranhas
+- lembro de engenharias complexas
+- quero expressar e mostrar conhecimento
 
 Objetivo:
-> Registrar **insights profundos, criativos e filosóficos**.
+> Registrar **insights profundos, criativos, conceitos e engenharias**
 
 ---
 
