@@ -1,6 +1,6 @@
 # Night Talk #8 — AGI, ASI e o futuro da humanidade
 
-**Data:** 21 de fevereiro de 2026  
+**21 de fevereiro de 2026**
 
 Esse é o oitavo Night Talk. Hoje eu vou falar um pouquinho sobre a **AGI** e a **ASI**.  
 
