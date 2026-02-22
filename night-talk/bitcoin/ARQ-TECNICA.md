@@ -1,6 +1,6 @@
 # Night Talk #2 — A Arquitetura Social do Bitcoin
 
-## **18 de fevereiro de 2026**
+ **18 de fevereiro de 2026**
 
 Hoje eu resolvi falar sobre a arquitetura social do Bitcoin, e não tanto sobre a arquitetura técnica em si.  
 Isso porque eu acho esse sistema simplesmente magnífico: extremamente bem organizado, muito bem construído e, acima de tudo, coerente com a ideia de descentralização.

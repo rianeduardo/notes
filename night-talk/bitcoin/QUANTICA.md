@@ -1,11 +1,11 @@
 # Night Talk #1 — Bitcoin, Computação Quântica e Medo Mal Direcionado
 
-## 18 de fevereiro de 2026
+**18 de fevereiro de 2026**
 
 Hoje eu resolvi falar um pouco sobre Bitcoin e sobre essa preocupação constante que muita gente tem em relação à computação quântica.
 
 Eu vejo bastante gente dizendo coisas como:
->  “Quando a computação quântica chegar, vai ser fácil quebrar o SHA-256, descobrir sua chave privada, roubar seus bitcoins e pronto, acabou tudo.”
+>  “Quando a computação quântica chegar, vai ser fácil quebrar o SHA-256, ECDSA, descobrir sua chave privada, roubar seus bitcoins e pronto, acabou tudo.”
 
 Beleza, teoricamente isso faz sentido. Mas só teoricamente.
 
