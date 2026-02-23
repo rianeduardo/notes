@@ -1,3 +1,3 @@
 # 🧠 Second Brain — Arquitetura, Segurança, Sistemas & Pensamentos
 
-> **Diretório sobre auto-escalabilidade em ambientes Cloud.**
+> **Diretório sobre React.**
