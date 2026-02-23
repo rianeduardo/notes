@@ -97,11 +97,11 @@ _Se liga na tabela:_
 
 Mas isso tudo sem contar valores de **energia/locação/refrigeração** que eu desconsiderei no cálculo
 
-Geralmente o pessoal até procura locais com _energia subsidiada_, tipo no **BR** mesmo que tem algumas partes do país com hidréletrica subsidiada, **Canada** tem muito também, **China** tinha antes de banirem, **Russia** e enfim
+Geralmente o pessoal até procura locais com _energia subsidiada_, tipo no **BR** mesmo que tem algumas partes do país com hidrelétrica subsidiada, **Canadá** tem muito também, **China** tinha antes de banirem, **Russia** e enfim
 
 Ou até fazendas solares gigantescas e tals, mas ai tem que ter até contrato com usinas próximas e tudo mais
 
-Canada inclusive um dos **melhores** locais, por conta da energia barata, locação acessível também, e clima frio, que reduz **UM POUCO** a refrigeração necessária
+Canadá inclusive um dos **melhores** locais, por conta da energia barata, locação acessível também, e clima frio, que reduz **UM POUCO** a refrigeração necessária
 
 E a realidade é essa rapazeada ⭢ Não da pra minerar cripto no PC velho de casa, infelizmente, tem que desembolsar alguns milhões de doláres aí
 
@@ -109,7 +109,7 @@ E a realidade é essa rapazeada ⭢ Não da pra minerar cripto no PC velho de ca
 
 ## Ligando com computação quântica
 
-O Night-talk sobre computação quântica e BTC foi o meu primeiro, mas eu vou sempre bater na tecla **denovo e denovo**
+O Night-talk sobre computação quântica e BTC foi o meu primeiro, mas eu vou sempre bater na tecla **de novo e de novo**
 
 Assim, tem tanto, mas tanto, profissionais (entre muitas aspas), mais pra frentão e tudo mais, que manjam do assunto né kkkkkkkk, que dizem que as quedas são culpa da computação quântica
 
